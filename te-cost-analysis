@@ -1,0 +1,6 @@
+git init
+git add README.md .gitignore docs python sql powerbi
+git commit -m "T&E cost-driver analysis: Python, SQL, Power BI"
+git branch -M main
+git remote add origin https://github.com/abhidevlp/te-cost-analysis..git
+git push -u origin main
